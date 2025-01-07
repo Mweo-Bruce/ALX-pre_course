@@ -1,3 +1,3 @@
-# ALX - Software Engineering course
+# ALX - Software Engineering Tutorial
 My first readme.
-Learning from ALX platform
+Learning from ALX.
